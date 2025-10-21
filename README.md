@@ -1,4 +1,17 @@
-Este projeto é um portal de notícias desenvolvido na plataforma OutSystems, criado para facilitar a comunicação e a divulgação de conteúdos informativos. Foi utilizada a opção gratuita da OutSystems.
+O projeto foca no planeamento e implementação de uma aplicação de notícias digitais para a região da Beira Baixa, utilizando tecnologia Low-Code. Com a crescente adoção dessas plataformas como solução ágil e acessível para o 
+desenvolvimento de software, o objetivo é analisar o seu impacto, identificar tendências e desafios, desenvolver um protótipo e testar a sua utilidade num contexto real.
+
+O planeamento seguiu etapas estruturadas, incluindo revisão bibliográfica, análise de estudos e ferramentas Low-Code, desenvolvimento do protótipo e redação do relatório. A diferenciação entre Low-Code e No-Code é destacada,
+assim como as vantagens, desafios e aplicações empresariais dessas tecnologias, com análise de plataformas populares como OutSystems, Mendix e Microsoft PowerApps. Para garantir fundamentação teórica, foi realizada uma revisão
+sistemática da literatura com base na metodologia PRISMA, permitindo a seleção e análise de estudos científicos relevantes.
+
+O desenvolvimento do protótipo tem como foco a criação de uma aplicação para o jornal digital Canal Albicastrense, permitindo que jornalistas publiquem e gerenciem notícias de forma simplificada, enquanto os leitores podem aceder a
+conteúdos, filtrar informações e receber notificações personalizadas. São detalhados os requisitos funcionais e técnicos da aplicação, além do design da interface, utilizando wireframes e um protótipo interativo desenvolvido no Figma.
+
+O projeto enfatiza a importância do Low-Code na democratização do desenvolvimento de software, promovendo inovação, acessibilidade e maior eficiência no processo de criação de aplicações. Procura-se não apenas validar as
+capacidades destas plataformas, mas também evidenciar o seu impacto na transformação digital e no desenvolvimento tecnológico de forma ágil e colaborativa.
+
+Neste projeto realizou-se um portal de notícias desenvolvido na plataforma OutSystems, criado para facilitar a comunicação e a divulgação de conteúdos informativos. Foi utilizada a opção gratuita da OutSystems.
 
 A plataforma digital permite o acesso a notícias, a gestão de publicações e a interação entre diferentes tipos de utilizadores, desde visitantes até administradores, garantindo um fluxo editorial controlado e eficiente.
 
